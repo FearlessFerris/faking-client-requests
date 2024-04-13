@@ -12,8 +12,6 @@ import Boeing from './Boeing';
 import Embraer from './Embraer';
 
 
-
-
 // Application 
 function App() {
 
